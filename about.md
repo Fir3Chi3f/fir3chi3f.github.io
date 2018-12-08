@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: About Fir3Chi3f
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Not much here for now. At present I am a full-stack developer who can't focus on much 
+and really need a place to organize my thoughts. Hopefully someone finds them interesting
+like I've found so many others'.
